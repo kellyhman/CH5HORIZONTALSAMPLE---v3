@@ -71,7 +71,7 @@
     "title": "Present a Source",
     "description": "Select a source to connect.",
     "sources": [
-      { "title": "HDMI", "icon": "fas fa-tv" },
+      { "title": "HDMI", "icon": "fas fa-wifi" },
       { "title": "Airboard", "icon": "fas fa-chalkboard" },
       { "title": "Laptop", "icon": "fas fa-laptop" },
       { "title": "AirMedia", "icon": "fas fa-wifi" }
