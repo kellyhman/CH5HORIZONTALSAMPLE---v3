@@ -14,7 +14,7 @@ var appModule = (function () {
     let errorClass = 'version-error';
     let previousActiveIndex = -1;
     let themeTimer;
-    const NAV_PAGE_COUNT = 5; // Number of buttons in the navigation menu
+    const NAV_PAGE_COUNT = 6; // Number of buttons in the navigation menu
 
     /**
      * This is public method to change the theme
