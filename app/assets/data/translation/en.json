@@ -110,19 +110,22 @@
   },
   "swiperSlides": [
     {
-      "thumbTitle": "Buttons"
+      "thumbTitle": "Home"
     },
     {
-      "thumbTitle": "Lists"
+      "thumbTitle": "Laptop"
     },
     {
-      "thumbTitle": "Source"
+      "thumbTitle": "Doc Cam"
     },
     {
-      "thumbTitle": "Lighting"
+      "thumbTitle": "DISC"
     },
     {
-      "thumbTitle": "Video"
+      "thumbTitle": "AUX Input"
+    },
+    {
+      "thumbTitle": "Advanced"
     }
   ],
 
