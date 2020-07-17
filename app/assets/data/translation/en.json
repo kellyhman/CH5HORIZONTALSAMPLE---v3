@@ -110,13 +110,16 @@
   },
   "swiperSlides": [
     {
-      "thumbTitle": "Home"
+      "thumbTitle": "Power"
+    },
+    {
+      "thumbTitle": "Computer"
     },
     {
       "thumbTitle": "Laptop"
     },
     {
-      "thumbTitle": "Doc Cam"
+      "thumbTitle": "DOC CAM"
     },
     {
       "thumbTitle": "DISC"
@@ -125,8 +128,18 @@
       "thumbTitle": "AUX Input"
     },
     {
+      "thumbTitle":"Scrn UP/DWN"
+    },
+    {
+      "thumbTitle": "lights"
+    },
+    {
       "thumbTitle": "Advanced"
+    },
+    {
+      "thumbTitle": "Blank Scrn"
     }
+
   ],
 
   "lang": "English"
